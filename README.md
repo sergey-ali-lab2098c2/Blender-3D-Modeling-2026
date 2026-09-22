@@ -1,4 +1,4 @@
-# Blender: 3D Graphics and Animation Suite Architecture
+# Blender 3D Graphics and Animation Suite Architecture
 
 Blender is a comprehensive, open-source 3D graphics and animation suite. It serves as an industry standard utilized by independent artists, developers, and production studios worldwide. Designed as an all-in-one pipeline, Blender provides the necessary technical infrastructure to develop projects from initial concept to final rendering and asset deployment.
 
